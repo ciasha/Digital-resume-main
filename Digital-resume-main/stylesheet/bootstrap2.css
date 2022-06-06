@@ -4,7 +4,7 @@ body {
     padding-top: 3rem;
     padding-bottom: 3rem;
     color: #5a5a5a;
-    background-color: whitesmoke
+    background-image:"Digital-resume-main/Ciasha image/background image2";
   }
   
   
@@ -50,7 +50,6 @@ body {
       margin-bottom: 1.25rem;
       font-size: 1.25rem;
       line-height: 1.4;
-      padding: 20%;
     }
   
     .featurette-heading {
@@ -61,7 +60,6 @@ body {
   @media (min-width: 62em) {
     .featurette-heading {
       margin-top: 7rem;
-      padding: 20%;
     }
   }
   
