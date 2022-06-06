@@ -3,10 +3,11 @@
 body {
     padding-top: 3rem;
     padding-bottom: 3rem;
-    color: #5a5a5a;
+    color: #ffffff;
     background-image: url('/Digital-resume-main/images/background\ image2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    text-shadow: black;
   }
   
   
